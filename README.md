@@ -1,2 +1,2 @@
 # Instagram-Page
-Página inicial do instagram.
+ - Página inicial do instagram - Projeto Html + Css DIO.
